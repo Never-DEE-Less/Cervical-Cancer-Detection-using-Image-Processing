@@ -8,3 +8,8 @@ Following are the objectives which are monitored and accomplished in this work:
 + Pathologists can use this method as a decision support in detecting cancer. This will reduce the workload on clinicians and makes the diagnosis of cancer faster, economical and more accurate. 
 
 ![Poster](https://github.com/shivatejapecheti/Cervical-Cancer-Detection-using-Image-Processing/assets/126412107/6b4e9efe-6b13-44ed-bbea-67deda816711)
+
+## Contributors
+
+- [Basavadeepthi H M](https://github.com/Never-DEE-Less)
+- [Shiva Teja Pecheti](https://github.com/shivatejapecheti)
